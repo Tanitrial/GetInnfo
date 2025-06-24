@@ -1,4 +1,3 @@
-# GetInnfo
 # QA Automation: E2E Tests (Playwright + Java)
 
 ## ✅ Что покрыто:
@@ -22,3 +21,10 @@ cd qa-playwright-tests
 mvn install
 mvn exec:java -e -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="install"
 mvn test
+```
+
+## 🔐 Данные для авторизации
+
+URL: https://dev2.getinfo.radugi.net  
+Логин: dumbledore@sct.team  
+Пароль: 12345678qQ1
